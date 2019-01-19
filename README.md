@@ -1,8 +1,6 @@
-# Ronen Konfortes
-<img src="./me.jpg" alt="drawing" width="230"/>
-</br>
+# Ronen Konfortes 
+<img src="./me.jpg" alt="drawing" width="230"></img>
 #### PHONE +972546825502
-
 ```
 EMAIL konfortes@gmail.com
 ```
