@@ -7,7 +7,6 @@ EMAIL konfortes@gmail.com
 ```
 ADDRESS 26 Romema, Tel-Aviv, Israel
 ```
-</br>
 #### OBJECTIVE
 Software engineer with over 8 years of web development experience, highly skilled with Ruby on Rails, Golang,
 Javascript, .NET and Databases, problems solver, team player, looking for a challenging and interesting position
