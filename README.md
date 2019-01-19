@@ -1,11 +1,8 @@
 # Ronen Konfortes 
 <img src="./me.jpg" alt="drawing" width="230"></img>
-#### PHONE +972546825502
 ```
+PHONE +972546825502
 EMAIL konfortes@gmail.com
-```
-```
-ADDRESS 26 Romema, Tel-Aviv, Israel
 ```
 #### OBJECTIVE
 Software engineer with over 8 years of web development experience, highly skilled with Ruby on Rails, Golang,
