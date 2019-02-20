@@ -5,19 +5,24 @@ PHONE +972546825502
 EMAIL konfortes@gmail.com
 ```
 #### OBJECTIVE
-Software engineer with over 8 years of web development experience, highly skilled with Ruby on Rails, Golang,
-Javascript, .NET and Databases, problems solver, team player, looking for a challenging and interesting position
-developing or building from scratch meaningful products together with great people.
+Software engineer with over 9 years of web development experience. Highly skilled with Ruby on Rails, Golang,
+Node.Js, Typescript, Javascript, .NET, Postgresql, MySql, Redis. Problems solver, team player, looking for a challenging and interesting position, developing or (preferably) building from scratch meaningful products together with great people.
 </br>
 #### EXPERIENCE
-_May-2018 - Currently_
-##### ***Fullstack Developer*** General Motors Hertzeliya
+_September-2018 - Currently_
+##### ***Senior Software Engineer*** First DAG
+Blockchain and crypto currencies solutions and infrastructures.
+Node.Js, Typescript, Golang, Postgres, AWS.
+
+
+_May-2018 - September-2018_
+##### ***Senior Fullstack Developer*** General Motors Hertzeliya
 Development of GM's Global Services Platform providing services to advisors, dealers, car owners, fleet managers
 and 3rd parties.
 Java, Node.JS, Javascript, Typescript, Oracle DB.
 
 _February-2015 - May-2018_
-##### ***Backend Developer*** Gett (previously known as Gett Taxi) Tel-Aviv
+##### ***Senior Software Engineer*** Gett (previously known as Gett Taxi) Tel-Aviv
 Designing, implementing, deploying and monitoring Gett's high scale on demand services. Back office systems
 and mobile RESTful APIs.
 Building from scratch the company's Carpool system - design through development, testing, production deploy,
