@@ -10,16 +10,16 @@ EMAIL konfortes@gmail.com
 ## OBJECTIVE
 
 Software engineer with over 10 years of web development experience.  
-Highly skilled with Ruby on Rails, Golang, Node.JS, Javascript, Typescript, Scala, AWS, K8S, Kafka, Postgresql, MySql, Redis, Elasticsearch.  
+Highly skilled with Ruby on Rails, Golang, Node.js, Javascript, Typescript, Scala, AWS, K8S, Kafka, Postgresql, MySql, Redis, Elasticsearch.  
 Problems solver, team player, looking for a challenging and interesting position, developing or (preferably) building from scratch meaningful products together with great people.
 
 ## EXPERIENCE
 
 ### ***Senior Software Engineer***@Riskified (_August-2019 - currently_)
 
-Online merchants fraud detection.  
+E-commerce fraud detection.  
 Infrastructure team supplying applicative infrastructure to dev teams.  
-Scala, Ruby on Rails, Node.JS, Kafka, K8S, Elasticsearch
+Scala, Ruby on Rails, Node.JS, Kafka, K8S, Postgresql, Elasticsearch, Redis, Prometheus, Grafana.
 
 ### ***Senior Software Engineer***@First DAG (_September-2018 - June-2019_)
 
