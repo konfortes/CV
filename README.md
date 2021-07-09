@@ -9,9 +9,23 @@ EMAIL konfortes@gmail.com
 
 ## OBJECTIVE
 
-Software engineer with 11 years of experience.  
-Highly skilled with Node.js, Typescript, Golang, Ruby on Rails, Scala, AWS, K8S, Kafka, Postgresql, DynamoDB, MySql, Redis, Elasticsearch, Prometheus, Jaeger, Grafana.  
+Experienced Software Engineer.  
+Highly skilled with backend systems and infrastructure design, implementation, testing, deployment, and monitoring.
 Problems solver, team player, looking for a challenging and interesting position, developing or (preferably) building from scratch meaningful products together with great people.
+
+## SKILLS
+
+- Backend Systems Architecture and Design
+- Programming Languages - Go, Node.js (ES6/Typescript), Python, Ruby, Scala
+- Micro-Services
+- Event Driven Systems: Kafka, Kafka Streams
+- K8s & K8s Ecosystem
+- Observability: Prometheus Jaeger, Grafana, New Relic
+- Cloud: AWS, GCP
+- Testing
+- CI/CD: CircleCI, Jenkins, ArgoCD, Harness
+- Relational Databases: PostgreSQL, MySQL
+- No-SQL Databases: Elasticsearch, DynamoDB, Redis
 
 ## EXPERIENCE
 
@@ -19,20 +33,20 @@ Problems solver, team player, looking for a challenging and interesting position
 
 E-commerce fraud detection.  
 Infrastructure team supplying applicative infrastructure to dev teams.  
-Scala, Ruby on Rails, Node.JS, Kafka, K8S, Postgresql, Elasticsearch, DynamoDB, Redis, Observability, CI/CD, Stream Processing, Workflows.
+Scala, Ruby on Rails, Node.JS, Kafka, K8S, PostgreSQL, Elasticsearch, DynamoDB, Redis, Observability, CI/CD, Stream Processing, Workflows.
 
 ### ***Senior Software Engineer***@First DAG (_September-2018 - June-2019_)
 
 Blockchain and crypto-currencies solutions and infrastructure.  
 Core dev team.  
-Node.Js, Typescript, Golang, Postgresql, AWS.
+Node.Js, Typescript, Golang, PostgreSQL, AWS.
 
 ### ***Senior Software Engineer***@Gett (_February-2015 - May-2018_)
 
 On-demand transportation.  
 Designing, implementing, deploying and monitoring Gett's high scale on-demand services, Back office systems and mobile RESTful APIs.  
 Building from scratch the company's Carpool system - design through development, testing, production deploy, launch and operational support.  
-Ruby on Rails, Golang, Postgersql, MySql, Redis, Rabbit MQ, AWS, Firebase, Javascript, React, Vue.JS.
+Ruby on Rails, Golang, PostgresSQL, MySQL, Redis, Rabbit MQ, AWS, Firebase, Javascript, React, Vue.JS.
 
 ### ***Fullstack Developer***@Schneider Electric (_July-2012 - January-2015_)
 
@@ -51,14 +65,4 @@ Development and maintenance of the company's products.
 
 ### B.sc Computer Science at the Academic College of Tel Aviv Yafo. Tel-Aviv
 
-Advanced courses in Mathematics, Programming, Architecture, Databases, Operating systems, etc.  
-
-## SKILLS
-
-- Backend systems architecture and design
-- Programming Languages - Ruby, Go, Javascript, Scala
-- Micro-Services
-- Event driven systems
-- Relational Databases
-- No-SQL Databases
-- Logging and Monitoring
+Advanced courses in Mathematics, Programming, Architecture, Databases, Operating systems, etc.
