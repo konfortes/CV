@@ -20,7 +20,7 @@ Problems solver, team player, looking for a challenging and interesting position
 - Micro-Services
 - Event Driven Systems: Kafka, Kafka Streams
 - K8s & K8s Ecosystem
-- Observability: Prometheus Jaeger, Grafana, New Relic
+- Observability: Prometheus, Jaeger, Grafana, New Relic, Logz.io, SignalFx
 - Cloud: AWS, GCP
 - Testing
 - CI/CD: CircleCI, Jenkins, ArgoCD, Harness
